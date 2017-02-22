@@ -1,0 +1,78 @@
+<div>
+	<div class="col-md-8 text-center">
+		<div class="hp-h1">
+			<h2>ВКонтакте для мобильных устройств</h2>
+			<p>Установите официальное мобильное приложение <br>
+			ВКонтакте и оставайтесь в курсе новостей Ваших друзей, где бы Вы ни находились.</p>
+		</div>
+		<div>
+			<div class="phone-img">
+				<img src="../img/android_ru.png"><br>
+				<a href="https://play.google.com/store/apps/details?id=com.vkontakte.android">VK для Android</a>
+			</div>
+			<div class="phone-img phone-img-main">
+				<img src="../img/ios_ru.png"><br>
+				<a href="https://itunes.apple.com/ru/app/id564177498">VK для iPhone</a>
+			</div>
+			<div class="phone-img">
+				<img src="../img/wp_ru.png"><br>
+				<a href="https://www.microsoft.com/ru-ru/windows/windows-10-mobile-upgrade">VK для WP</a>
+			</div>
+			</div>		
+		</div>
+	</div>
+		<div class="col-md-4">
+			<div class="sign-in">
+				<form class="form-horizontal" ng-submit="signIn()">
+				  <div class="form-group">
+				    <div class="col-sm-12">
+				      <input ng-model="loginUser.email" type="email" class="form-control" id="inputEmail3" placeholder="Телефон или e-mail">
+				    </div>
+				  </div>
+				  <div class="form-group">
+				    <div class="col-sm-12">
+				      <input ng-model="loginUser.password" type="password" class="form-control" id="inputPassword3" placeholder="Пароль">
+				      {{error}}
+				    </div>
+				  </div>
+				      <button type="submit" class="btn btn-default btn-in">Войти</button>
+				      <a href="https://vk.com/restore">Забыли пароль?</a>
+				</form>
+			</div>
+			<div class="sign-in">
+				<form style="margin-bottom: -10px;" ng-submit="signUp()">
+					  <div class="form-group">
+					  <p style="font-size: 20px; text-align: center; margin-bottom: -5px !important;">
+					    		Впервые ВКонтакте?</p>
+					  <p class="lbl-vk">Моментальная регистрация</p>	
+					  <input ng-model="registrationUser.first_name" type="text" class="form-control" id="firstName" placeholder="Ваше имя">
+					  <span style="color: red;">{{errors.first_name[0]}}</span>
+					  </div>
+					  <div class="form-group">
+					  <input ng-model="registrationUser.last_name" type="text" class="form-control" id="lastName" placeholder="Ваша фамилия">
+					  <span style="color: red;">{{errors.last_name[0]}}</span>
+					  </div>
+					  <div class="form-group">
+					  <input ng-model="registrationUser.email" type="email" class="form-control" id="email" placeholder="Ваш e-mail">
+					  <span style="color: red;">{{errors.email[0]}}</span>
+					  </div>
+					  <div class="form-group">
+					  <input ng-model="registrationUser.nickname" type="text" class="form-control" id="nickName" placeholder="Ваш никнейм">
+					  <span style="color: red;">{{errors.nickname[0]}}</span>
+					  </div>
+					  <div class="form-group">
+					  <input ng-model="registrationUser.password" type="password" class="form-control" id="password" placeholder="Введите пароль">
+					  <span style="color: red;">{{errors.password[0]}}</span>
+					  </div>
+					  <div class="form-group">
+					  <input ng-model="registrationUser.password_confirmation" type="password" class="form-control" id="passwordConfirmation" placeholder="Подтверждение пароля">
+					  <span style="color: red;">{{errors.password_confirmation[0]}}</span>
+					  </div>
+					  <button type="submit" class="btn btn-default btn-up">Зарегестрироваться</button>
+					  <hr>
+					  <a href="https://www.facebook.com/login.php?skip_api_login=1&api_key=128749580520227&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.2%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fvk.com%252Fjoin%253Fact%253Dfb_sign%26display%3Dpopup%26state%3Db0d4df9d3945ad5a19%26scope%3Demail%252Cuser_birthday%26client_id%3D128749580520227%26ret%3Dlogin%26logger_id%3Db7ddf68f-1d90-f892-4945-dbf5b0a7334f&cancel_url=https%3A%2F%2Fvk.com%2Fjoin%3Fact%3Dfb_sign%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3Db0d4df9d3945ad5a19%23_%3D_&display=popup&locale=ru_RU&logger_id=b7ddf68f-1d90-f892-4945-dbf5b0a7334f" style="display:block; text-align: center;">Войти через Facebook</a>
+				</form>
+			</div>
+			
+	</div>
+</div>

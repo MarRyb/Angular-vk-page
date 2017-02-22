@@ -1,0 +1,59 @@
+<html ng-app="vkApp">
+	<head>
+		<link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+		<title>VK Page</title>	
+		<meta charset="utf-8">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+		<script src="js/lib/ui-router.min.js"></script>
+		<script type="text/javascript" src="js/lib/ui-bootstrap-tpls-2.5.0.min.js"></script>
+		<script src="js/app.js"></script>
+		<script src="js/lib/angular-resource.min.js"></script>	
+		<script src="js/controllers/home_controller.js"></script>		
+	</head>
+	<body>
+		<div class="header">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-2 col-md-2">
+						<img src="img/logo.png">		
+					</div>
+					<div class="col-xs-7 col-md-7">
+						<input type="text" name="search" placeholder="Поиск" id="search">
+						<div id="img-ntf"> </div>
+					</div>
+					<div class="col-xs-3 col-md-3">
+						<div>
+							<ul class="nav navbar-nav navbar-right">
+								<li class="dropdown" uib-dropdown>
+									<a uib-dropdown-toggle id="menu-dropdown" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Марина<img src="img/avatar.jpeg" id="img-ttl"><span class="caret"></span></a>
+									<ul uib-dropdown-menu aria-labelledby="menu-dropdown" class="dropdown-menu" >
+										<li><a href="#">Моя страница</a></li>
+										<li role="separator" class="divider"></li>
+										<li><a href="#">Редактировать</a></li>
+										<li><a href="#">Настройки</a></li>
+										<li role="separator" class="divider"></li>
+										<li><a href="#">Выйти</a></li>
+								  </ul>
+								</li>
+							  </ul>	
+									
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div ui-view></div>
+			</div>
+		</div>
+		<div class="footer">
+			<p> Marina Gernyak - VK &copy; 2017 </p>
+		</div>
+		
+	</body>
+</html>
+
