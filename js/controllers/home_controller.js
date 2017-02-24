@@ -1,4 +1,5 @@
-vkApp.controller('HomeController', ['$scope', '$http', function($scope, $http) {
+vkApp.controller('HomeController', ['$scope', '$http', '$sessionStorage', '$state', 
+	function($scope, $http, $sessionStorage, $state) {
 	$scope.registrationUser = {};
 	$scope.signUp  = function(){
 		console.log($scope.registrationUser);
@@ -9,8 +10,8 @@ vkApp.controller('HomeController', ['$scope', '$http', function($scope, $http) {
 				user: $scope.registrationUser
 			}
 		}).then(function(response){
-			alert("Done!");
-			$scope.registrationUser = {};
+			$sessionStorage.key = response.data.user.authentication_token;
+			$state.go('profile');
 		}, function(response) {
 			$scope.errors = response.data.errors;
 		});
@@ -25,7 +26,8 @@ $scope.loginUser = {};
 				user: $scope.loginUser
 			}
 		}).then(function(response){
-			alert("УРА, ТЫ ЗАЛОГИНИЛСЯ - скоро будет твоя страница :)");
+			$sessionStorage.key = response.data.user.authentication_token;
+			$state.go('profile');
 		}, function(response){
 			$scope.error = response.data.error;
 		});
