@@ -12,8 +12,10 @@ vkApp.controller('HomeController', ['$scope', '$http', '$sessionStorage', '$stat
 		}).then(function(response){
 			$sessionStorage.key = response.data.user.authentication_token;
 			$state.go('profile');
+			$scope.user = response.data.user;
 		}, function(response) {
 			$scope.errors = response.data.errors;
+			$scope.user = null;
 		});
 	};
 
@@ -28,8 +30,10 @@ $scope.loginUser = {};
 		}).then(function(response){
 			$sessionStorage.key = response.data.user.authentication_token;
 			$state.go('profile');
+			$scope.user = response.data.user;
 		}, function(response){
 			$scope.error = response.data.error;
+			$scope.user = null;
 		});
 	};
 }]);

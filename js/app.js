@@ -1,4 +1,4 @@
-var vkApp = angular.module('vkApp', ["ui.router", "ui.bootstrap", "ngResource", "ngStorage"]);
+var vkApp = angular.module('vkApp', ["ui.router", "ui.bootstrap", "ngResource", "ngStorage", "xeditable", "monospaced.elastic"]);
 vkApp.config(function($stateProvider, $urlRouterProvider){
 	$urlRouterProvider.otherwise('/home_page')
 	$stateProvider.state('home',{
@@ -12,6 +12,7 @@ vkApp.config(function($stateProvider, $urlRouterProvider){
 	$stateProvider.state('profile',{
 		url: '/profile_page',
 		templateUrl: 'template/profile_page.html',
+		controller: 'ProfileController',
 		data: {
 			noLogin: false
 		}
