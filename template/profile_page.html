@@ -1,0 +1,161 @@
+<div class="col-md-3 col-md-3-new">
+	<div ng-include="'template/menu.html'">	</div>
+</div>
+<div class="col-md-9 col-md-9-new">
+	<div class="row">
+		<div class="col-md-3 col-md-3-new-2">
+			<div class="block-vk">
+				<div class="avatar-img"></div>
+					<div class="row">
+						<div class="col-md-9">
+							<div class="div-a">
+								Редактировать	
+							</div>
+						</div>
+						<div class="col-md-3 col-md-new">
+							<div id="img-stat"></div>
+						</div>
+						</div>	
+			</div>
+			<!-- Блок друзей  -->
+			<div class="block-vk">
+				<p>Друзья 100 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;обновления</p>
+				<div class="box-friends">
+					<div ng-repeat="item in friends.friends" class="box-friend">
+						<div ng-include="'template/box_friend.html'"></div>
+					</div>
+					<hr style="margin-right: 15px;">
+					<p>Друзья онлайн 30</p>
+				<div class="box-friends">
+					<div ng-repeat="item in friends.friends" class="box-friend">
+						<div ng-include="'template/box_friend.html'"></div>
+					</div>
+				</div>
+			</div>
+			<!-- Конец блока -->
+
+		</div>
+	</div>
+	<div class="col-md-9 col-md-9-new-2">
+			<div class="block-vk block-vk-new">
+				<p style="margin: 0; font-weight: bold;">Marina Gernyak</p>
+				<i style="font-size: 10px;">
+					
+  						<a href="#" editable-text="status" e-label="">{{ status || 'Изменить статус' }}</a></i>
+				<hr style="margin-right: 15px;">
+					<div class="row">
+						<div class="col-md-4"><p class="key">День рождения</p></div>
+						<div class="col-md-8"><p class="value">5 сентября 1996 г.</p></div>
+					</div>
+					<div class="row">
+						<div class="col-md-4"><p class="key">Город:</p></div>
+						<div class="col-md-8"><p class="value">Краматорск</p></div>
+					</div>
+					<div class="show-hide" ng-click="info = !info"> 
+						<p ng-hide="info">Показать подробную информацию</p>
+						<p ng-show="info">Скрыть подробную информацию</p>
+					</div>
+					<div ng-show="info">
+						<div>
+							<hr style="margin-left: -15px;">
+							<p class="key-title">Основная информация</p>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Родной город:</p></div>
+								<div class="col-md-8"><p class="value">Красный Лиман</p></div>
+							</div>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Языки:</p></div>
+								<div class="col-md-8"><p class="value">Русский, Українська, English</p></div>
+							</div>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Братья, сестры:</p></div>
+								<div class="col-md-8"><p class="value">Kristina Aleksandrova, Таничка Соколовская</p></div>
+							</div>
+						</div>
+						<div>
+							<hr style="margin-left: -15px;">
+							<p class="key-title">Жизненная позиция</p>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Полит. предпочтения:</p></div>
+								<div class="col-md-8"><p class="value">Индифферентные</p></div>
+							</div>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Мировоззрение:</p></div>
+								<div class="col-md-8"><p class="value">Православие</p></div>
+							</div>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Главное в жизни:</p></div>
+								<div class="col-md-8"><p class="value">Семья и дети</p></div>
+							</div>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Главное в людях:</p></div>
+								<div class="col-md-8"><p class="value">Доброта и честность</p></div>
+							</div>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Отн. к курению:</p></div>
+								<div class="col-md-8"><p class="value">Резко негативное</p></div>
+							</div>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Отн. к алкоголю:</p></div>
+								<div class="col-md-8"><p class="value">Положительное</p></div>
+							</div>
+							<div class="row">
+								<div class="col-md-4"><p class="key">Вдохновляют:</p></div>
+								<div class="col-md-8"><p class="value">Люди и музыка</p></div>
+							</div>
+						</div>
+					</div>
+					<!--  new block -->
+				<hr style="margin-left: -15px;">
+				<div class="container-stat">
+					<div class="block">
+						<p>100</p>
+						<span>друзей</span>
+					</div>
+					<div class="block">
+						<p>660</p>
+						<span>подписчиков</span>
+					</div>
+					<div class="block">
+						<p>105</p>
+						<span>фотографий</span>
+					</div>
+					<div class="block">
+						<p>9</p>
+						<span>отметок</span>
+					</div>
+					<div class="block">
+						<p>101</p>
+						<span>запись</span>
+					</div>
+				</div>
+				<!-- Block new -->
+				
+			</div>
+			<div class="block-vk block-vk-new">
+				<div class="text-center">
+					<div class="div-img"></div>
+					<span id="add-img">Добавить фотографии</span>
+				</div>	
+			</div>
+			<div class="block-vk block-vk-new">
+				<img src="/img/avatar.jpeg" class="foto-lbl">
+				<textarea id="text-input" placeholder="Что у вас нового?" class="msd-elastic" ng-model="postMessage"></textarea>
+				<hr style="margin-right: 15px;">
+				<div class="btn-new">
+					<input type="submit" class="btn btn-primary" ng-click="addPost()">
+				</div>	
+			</div>
+			<!-- new block -->
+			<div class="block-vk block-vk-new" ng-repeat="item in wallPosts">
+				<img src="/img/avatar.jpeg" class="foto-lbl">
+				<p class="wall">{{item.text}}</p>
+				<hr style="margin-right: 15px;">
+				<div class="btn-new">
+					<i><p>{{item.data | date: 'dd.MM.yyyy'}}</p></i>
+				</div>	
+			</div>
+		</div>
+</div>
+	
+
