@@ -438,7 +438,7 @@ body {
 }
 .container-stat .block{
 	text-align: center;
-	padding: 1px 15px;
+	padding: 1px 20px;
 }
 .container-stat .block p{
 	margin-bottom: 0 !important;
@@ -489,4 +489,17 @@ body {
 	display: inline-block;
     margin-left: 5px;
     text-align: left;
+}
+.see_more {
+	background: rgba(1, 70, 148, 0.54);
+    padding: 7px;
+    color: white;
+    font-weight: bold;
+}
+.see_more p{
+	margin-bottom: 0 !important;
+}
+.see_more:hover {
+	background: rgba(2, 58, 121, 0.66);
+	cursor: pointer;
 }

@@ -1,0 +1,2102 @@
+[
+  {
+    "sha": "2ca8be6c5585e4350716f901cfd514e23e93ba1a",
+    "commit": {
+      "author": {
+        "name": "Greg Knaddison",
+        "email": "greg.knaddison@gmail.com",
+        "date": "2017-02-17T00:48:17Z"
+      },
+      "committer": {
+        "name": "Dan Croak",
+        "email": "dan@statusok.com",
+        "date": "2017-02-17T00:48:17Z"
+      },
+      "message": "Clarify that questions should be good questions\n\nState some of the elements from https://youtu.be/PJjmw9TRB7s?t=944",
+      "tree": {
+        "sha": "302f41ec1038d4bb2957f1c747e8c07f1203e7a4",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/302f41ec1038d4bb2957f1c747e8c07f1203e7a4"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/2ca8be6c5585e4350716f901cfd514e23e93ba1a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/2ca8be6c5585e4350716f901cfd514e23e93ba1a",
+    "html_url": "https://github.com/thoughtbot/guides/commit/2ca8be6c5585e4350716f901cfd514e23e93ba1a",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/2ca8be6c5585e4350716f901cfd514e23e93ba1a/comments",
+    "author": {
+      "login": "greggles",
+      "id": 392568,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/392568?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/greggles",
+      "html_url": "https://github.com/greggles",
+      "followers_url": "https://api.github.com/users/greggles/followers",
+      "following_url": "https://api.github.com/users/greggles/following{/other_user}",
+      "gists_url": "https://api.github.com/users/greggles/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/greggles/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/greggles/subscriptions",
+      "organizations_url": "https://api.github.com/users/greggles/orgs",
+      "repos_url": "https://api.github.com/users/greggles/repos",
+      "events_url": "https://api.github.com/users/greggles/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/greggles/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "croaky",
+      "id": 198,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/198?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/croaky",
+      "html_url": "https://github.com/croaky",
+      "followers_url": "https://api.github.com/users/croaky/followers",
+      "following_url": "https://api.github.com/users/croaky/following{/other_user}",
+      "gists_url": "https://api.github.com/users/croaky/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/croaky/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/croaky/subscriptions",
+      "organizations_url": "https://api.github.com/users/croaky/orgs",
+      "repos_url": "https://api.github.com/users/croaky/repos",
+      "events_url": "https://api.github.com/users/croaky/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/croaky/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "752db69a69a9dbaae1d80355641f1d0fe6bb5f10",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/752db69a69a9dbaae1d80355641f1d0fe6bb5f10",
+        "html_url": "https://github.com/thoughtbot/guides/commit/752db69a69a9dbaae1d80355641f1d0fe6bb5f10"
+      }
+    ]
+  },
+  {
+    "sha": "752db69a69a9dbaae1d80355641f1d0fe6bb5f10",
+    "commit": {
+      "author": {
+        "name": "Bud (Mugur) Chirica",
+        "email": "chirica.mugurel@gmail.com",
+        "date": "2017-02-10T23:16:43Z"
+      },
+      "committer": {
+        "name": "Dan Croak",
+        "email": "dan@statusok.com",
+        "date": "2017-02-10T23:16:43Z"
+      },
+      "message": "Remove broken Readability link\n\nThe better option would be to replace the readability link\nwith the correct one,\nbut I don't know which one is that.",
+      "tree": {
+        "sha": "26c2bf760d4414a1c841df5a9e4e7b695023e487",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/26c2bf760d4414a1c841df5a9e4e7b695023e487"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/752db69a69a9dbaae1d80355641f1d0fe6bb5f10",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/752db69a69a9dbaae1d80355641f1d0fe6bb5f10",
+    "html_url": "https://github.com/thoughtbot/guides/commit/752db69a69a9dbaae1d80355641f1d0fe6bb5f10",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/752db69a69a9dbaae1d80355641f1d0fe6bb5f10/comments",
+    "author": {
+      "login": "budmc29",
+      "id": 7063792,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7063792?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/budmc29",
+      "html_url": "https://github.com/budmc29",
+      "followers_url": "https://api.github.com/users/budmc29/followers",
+      "following_url": "https://api.github.com/users/budmc29/following{/other_user}",
+      "gists_url": "https://api.github.com/users/budmc29/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/budmc29/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/budmc29/subscriptions",
+      "organizations_url": "https://api.github.com/users/budmc29/orgs",
+      "repos_url": "https://api.github.com/users/budmc29/repos",
+      "events_url": "https://api.github.com/users/budmc29/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/budmc29/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "croaky",
+      "id": 198,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/198?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/croaky",
+      "html_url": "https://github.com/croaky",
+      "followers_url": "https://api.github.com/users/croaky/followers",
+      "following_url": "https://api.github.com/users/croaky/following{/other_user}",
+      "gists_url": "https://api.github.com/users/croaky/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/croaky/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/croaky/subscriptions",
+      "organizations_url": "https://api.github.com/users/croaky/orgs",
+      "repos_url": "https://api.github.com/users/croaky/repos",
+      "events_url": "https://api.github.com/users/croaky/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/croaky/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cb311eeef25da1d8eabf49fecf61e81afbde28f5",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/cb311eeef25da1d8eabf49fecf61e81afbde28f5",
+        "html_url": "https://github.com/thoughtbot/guides/commit/cb311eeef25da1d8eabf49fecf61e81afbde28f5"
+      }
+    ]
+  },
+  {
+    "sha": "cb311eeef25da1d8eabf49fecf61e81afbde28f5",
+    "commit": {
+      "author": {
+        "name": "Steven Petryk",
+        "email": "me@stevenpetryk.com",
+        "date": "2016-12-27T22:47:33Z"
+      },
+      "committer": {
+        "name": "Dan Croak",
+        "email": "dan@statusok.com",
+        "date": "2017-02-10T23:14:15Z"
+      },
+      "message": "Separate \"Postgres\" into two sections",
+      "tree": {
+        "sha": "c59dd9b772eea864845a39e68455a3c3ca15e2fa",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/c59dd9b772eea864845a39e68455a3c3ca15e2fa"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/cb311eeef25da1d8eabf49fecf61e81afbde28f5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/cb311eeef25da1d8eabf49fecf61e81afbde28f5",
+    "html_url": "https://github.com/thoughtbot/guides/commit/cb311eeef25da1d8eabf49fecf61e81afbde28f5",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/cb311eeef25da1d8eabf49fecf61e81afbde28f5/comments",
+    "author": {
+      "login": "stevenpetryk",
+      "id": 1724000,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1724000?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevenpetryk",
+      "html_url": "https://github.com/stevenpetryk",
+      "followers_url": "https://api.github.com/users/stevenpetryk/followers",
+      "following_url": "https://api.github.com/users/stevenpetryk/following{/other_user}",
+      "gists_url": "https://api.github.com/users/stevenpetryk/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/stevenpetryk/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/stevenpetryk/subscriptions",
+      "organizations_url": "https://api.github.com/users/stevenpetryk/orgs",
+      "repos_url": "https://api.github.com/users/stevenpetryk/repos",
+      "events_url": "https://api.github.com/users/stevenpetryk/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/stevenpetryk/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "croaky",
+      "id": 198,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/198?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/croaky",
+      "html_url": "https://github.com/croaky",
+      "followers_url": "https://api.github.com/users/croaky/followers",
+      "following_url": "https://api.github.com/users/croaky/following{/other_user}",
+      "gists_url": "https://api.github.com/users/croaky/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/croaky/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/croaky/subscriptions",
+      "organizations_url": "https://api.github.com/users/croaky/orgs",
+      "repos_url": "https://api.github.com/users/croaky/repos",
+      "events_url": "https://api.github.com/users/croaky/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/croaky/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6ac0f5d34867da22b140890db7551ce33b3c85c0",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/6ac0f5d34867da22b140890db7551ce33b3c85c0",
+        "html_url": "https://github.com/thoughtbot/guides/commit/6ac0f5d34867da22b140890db7551ce33b3c85c0"
+      }
+    ]
+  },
+  {
+    "sha": "6ac0f5d34867da22b140890db7551ce33b3c85c0",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-02-07T14:23:31Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-02-09T01:58:56Z"
+      },
+      "message": "Update old blog link",
+      "tree": {
+        "sha": "6143041bc0cde6335598fda28400a95b83731776",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/6143041bc0cde6335598fda28400a95b83731776"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/6ac0f5d34867da22b140890db7551ce33b3c85c0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/6ac0f5d34867da22b140890db7551ce33b3c85c0",
+    "html_url": "https://github.com/thoughtbot/guides/commit/6ac0f5d34867da22b140890db7551ce33b3c85c0",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/6ac0f5d34867da22b140890db7551ce33b3c85c0/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "73f888cb497627fb00902fb4f1bfa2939d5e381f",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/73f888cb497627fb00902fb4f1bfa2939d5e381f",
+        "html_url": "https://github.com/thoughtbot/guides/commit/73f888cb497627fb00902fb4f1bfa2939d5e381f"
+      }
+    ]
+  },
+  {
+    "sha": "73f888cb497627fb00902fb4f1bfa2939d5e381f",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-23T15:53:18Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-02-08T14:27:27Z"
+      },
+      "message": "Add best practice for documenting CSS architecture\n\n- Each project is unique and our guides on front-end development\npurposefully do not prescribe a specific way to structure and\norganize CSS.\n- Documenting how the project's CSS is structured and organized allows\nfor a shared understanding, making it easier to contribute to\nand review.",
+      "tree": {
+        "sha": "f17db157a4f0c156247faae290fc742da4e5bae7",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/f17db157a4f0c156247faae290fc742da4e5bae7"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/73f888cb497627fb00902fb4f1bfa2939d5e381f",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/73f888cb497627fb00902fb4f1bfa2939d5e381f",
+    "html_url": "https://github.com/thoughtbot/guides/commit/73f888cb497627fb00902fb4f1bfa2939d5e381f",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/73f888cb497627fb00902fb4f1bfa2939d5e381f/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8eab43fa7dd419881faa10b3d72f53e26fad655d",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/8eab43fa7dd419881faa10b3d72f53e26fad655d",
+        "html_url": "https://github.com/thoughtbot/guides/commit/8eab43fa7dd419881faa10b3d72f53e26fad655d"
+      }
+    ]
+  },
+  {
+    "sha": "8eab43fa7dd419881faa10b3d72f53e26fad655d",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-23T15:32:30Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-28T20:05:00Z"
+      },
+      "message": "Remove HTML best practices\n\nThese two guides were introduced in https://github.com/thoughtbot/guides/commit/2360fac0c44de00cd37607cdc72b24128adfc7a7.\n\n- \"Don't use a reset button for forms.\" feels like too strong of a statement and\ncasts a wide net.\n- It is unclear why these are best practices.\n- These guidelines are highly dependent on the situation.\n- They lack contextual information on when these best practices should\nbe adhered to or broken.",
+      "tree": {
+        "sha": "ff843baabf8397cd25aac94086f8c2e33bf860e0",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/ff843baabf8397cd25aac94086f8c2e33bf860e0"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/8eab43fa7dd419881faa10b3d72f53e26fad655d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/8eab43fa7dd419881faa10b3d72f53e26fad655d",
+    "html_url": "https://github.com/thoughtbot/guides/commit/8eab43fa7dd419881faa10b3d72f53e26fad655d",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/8eab43fa7dd419881faa10b3d72f53e26fad655d/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a000410fe72b4c43717204b7d5429049284b947d",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/a000410fe72b4c43717204b7d5429049284b947d",
+        "html_url": "https://github.com/thoughtbot/guides/commit/a000410fe72b4c43717204b7d5429049284b947d"
+      }
+    ]
+  },
+  {
+    "sha": "a000410fe72b4c43717204b7d5429049284b947d",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-23T16:44:09Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-28T20:03:15Z"
+      },
+      "message": "Drop IE10 from browser support best practice\n\nCan I Use (with data from StatCounter) reports that global IE10 usage has\ndropped to 0.24%: http://caniuse.com/usage-table.",
+      "tree": {
+        "sha": "5e67d87b90fb332dd2c7bb794f69326ca0123f91",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/5e67d87b90fb332dd2c7bb794f69326ca0123f91"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/a000410fe72b4c43717204b7d5429049284b947d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/a000410fe72b4c43717204b7d5429049284b947d",
+    "html_url": "https://github.com/thoughtbot/guides/commit/a000410fe72b4c43717204b7d5429049284b947d",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/a000410fe72b4c43717204b7d5429049284b947d/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7954e10720f964583c52d2d3d5585c0c60bba5ae",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/7954e10720f964583c52d2d3d5585c0c60bba5ae",
+        "html_url": "https://github.com/thoughtbot/guides/commit/7954e10720f964583c52d2d3d5585c0c60bba5ae"
+      }
+    ]
+  },
+  {
+    "sha": "7954e10720f964583c52d2d3d5585c0c60bba5ae",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-23T16:39:23Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-28T20:02:01Z"
+      },
+      "message": "Clarify sass-rails asset helpers best practice\n\nThese asset helpers are specific to sass-rails. Not every project is\nbuilt on Ruby on Rails and sass-rails.",
+      "tree": {
+        "sha": "9998ee97afff75223aba22516580cb8ea4c7708f",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/9998ee97afff75223aba22516580cb8ea4c7708f"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/7954e10720f964583c52d2d3d5585c0c60bba5ae",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/7954e10720f964583c52d2d3d5585c0c60bba5ae",
+    "html_url": "https://github.com/thoughtbot/guides/commit/7954e10720f964583c52d2d3d5585c0c60bba5ae",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/7954e10720f964583c52d2d3d5585c0c60bba5ae/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7773e39f5771811953c979219ab7e8197a1f5017",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/7773e39f5771811953c979219ab7e8197a1f5017",
+        "html_url": "https://github.com/thoughtbot/guides/commit/7773e39f5771811953c979219ab7e8197a1f5017"
+      }
+    ]
+  },
+  {
+    "sha": "7773e39f5771811953c979219ab7e8197a1f5017",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-23T16:31:45Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2017-01-28T19:59:25Z"
+      },
+      "message": "Move CSS overflow best practice\n\nThis has nothing to do with Sass and everything to do with CSS.",
+      "tree": {
+        "sha": "2feb3b67af209d5a7222d65bf9507692cb8cf7d5",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/2feb3b67af209d5a7222d65bf9507692cb8cf7d5"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/7773e39f5771811953c979219ab7e8197a1f5017",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/7773e39f5771811953c979219ab7e8197a1f5017",
+    "html_url": "https://github.com/thoughtbot/guides/commit/7773e39f5771811953c979219ab7e8197a1f5017",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/7773e39f5771811953c979219ab7e8197a1f5017/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1eb89250a37689ccf270b49558ec54c28333f66e",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/1eb89250a37689ccf270b49558ec54c28333f66e",
+        "html_url": "https://github.com/thoughtbot/guides/commit/1eb89250a37689ccf270b49558ec54c28333f66e"
+      }
+    ]
+  },
+  {
+    "sha": "1eb89250a37689ccf270b49558ec54c28333f66e",
+    "commit": {
+      "author": {
+        "name": "Dan Croak",
+        "email": "dan@statusok.com",
+        "date": "2017-01-27T18:21:46Z"
+      },
+      "committer": {
+        "name": "Dan Croak",
+        "email": "dan@statusok.com",
+        "date": "2017-01-27T18:21:46Z"
+      },
+      "message": "Expand \"security\" to physical + vulnerabilities\n\nBased on similar sections seen in compliance questionnaires,\nre-title existing sections and add new sections:\n\n* Secure Employee Access and Communication\n* Application Security: Transmitting Information\n* Application Security: Storing Information\n* Physical Security\n* Handling Vulnerabilities: Reporting\n* Handling Vulnerabilities: Reviewing, Logging and Following Up\n\nExtract the new sections from internal handbook.",
+      "tree": {
+        "sha": "ca67344de04d393acfc8df18f5a6222bb6f5b829",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/ca67344de04d393acfc8df18f5a6222bb6f5b829"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/1eb89250a37689ccf270b49558ec54c28333f66e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/1eb89250a37689ccf270b49558ec54c28333f66e",
+    "html_url": "https://github.com/thoughtbot/guides/commit/1eb89250a37689ccf270b49558ec54c28333f66e",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/1eb89250a37689ccf270b49558ec54c28333f66e/comments",
+    "author": {
+      "login": "croaky",
+      "id": 198,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/198?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/croaky",
+      "html_url": "https://github.com/croaky",
+      "followers_url": "https://api.github.com/users/croaky/followers",
+      "following_url": "https://api.github.com/users/croaky/following{/other_user}",
+      "gists_url": "https://api.github.com/users/croaky/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/croaky/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/croaky/subscriptions",
+      "organizations_url": "https://api.github.com/users/croaky/orgs",
+      "repos_url": "https://api.github.com/users/croaky/repos",
+      "events_url": "https://api.github.com/users/croaky/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/croaky/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "croaky",
+      "id": 198,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/198?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/croaky",
+      "html_url": "https://github.com/croaky",
+      "followers_url": "https://api.github.com/users/croaky/followers",
+      "following_url": "https://api.github.com/users/croaky/following{/other_user}",
+      "gists_url": "https://api.github.com/users/croaky/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/croaky/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/croaky/subscriptions",
+      "organizations_url": "https://api.github.com/users/croaky/orgs",
+      "repos_url": "https://api.github.com/users/croaky/repos",
+      "events_url": "https://api.github.com/users/croaky/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/croaky/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bde4e89fc04cfecb2c79f3f2ce4abf1789f7864d",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/bde4e89fc04cfecb2c79f3f2ce4abf1789f7864d",
+        "html_url": "https://github.com/thoughtbot/guides/commit/bde4e89fc04cfecb2c79f3f2ce4abf1789f7864d"
+      }
+    ]
+  },
+  {
+    "sha": "bde4e89fc04cfecb2c79f3f2ce4abf1789f7864d",
+    "commit": {
+      "author": {
+        "name": "Mike Burns",
+        "email": "mike@mike-burns.com",
+        "date": "2017-01-23T20:46:52Z"
+      },
+      "committer": {
+        "name": "Mike Burns",
+        "email": "mike@mike-burns.com",
+        "date": "2017-01-23T20:46:52Z"
+      },
+      "message": "Disable Style/AlignParameters in Rubocop\n\nThis has Rubocop match the change made in\n1c8edf0ec3d4141270233faa31110339c7827aff.",
+      "tree": {
+        "sha": "8181e9300ac0d258b88c4759da322bc5ca897573",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/8181e9300ac0d258b88c4759da322bc5ca897573"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/bde4e89fc04cfecb2c79f3f2ce4abf1789f7864d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/bde4e89fc04cfecb2c79f3f2ce4abf1789f7864d",
+    "html_url": "https://github.com/thoughtbot/guides/commit/bde4e89fc04cfecb2c79f3f2ce4abf1789f7864d",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/bde4e89fc04cfecb2c79f3f2ce4abf1789f7864d/comments",
+    "author": {
+      "login": "mike-burns",
+      "id": 4550,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mike-burns",
+      "html_url": "https://github.com/mike-burns",
+      "followers_url": "https://api.github.com/users/mike-burns/followers",
+      "following_url": "https://api.github.com/users/mike-burns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mike-burns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mike-burns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mike-burns/subscriptions",
+      "organizations_url": "https://api.github.com/users/mike-burns/orgs",
+      "repos_url": "https://api.github.com/users/mike-burns/repos",
+      "events_url": "https://api.github.com/users/mike-burns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mike-burns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mike-burns",
+      "id": 4550,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mike-burns",
+      "html_url": "https://github.com/mike-burns",
+      "followers_url": "https://api.github.com/users/mike-burns/followers",
+      "following_url": "https://api.github.com/users/mike-burns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mike-burns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mike-burns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mike-burns/subscriptions",
+      "organizations_url": "https://api.github.com/users/mike-burns/orgs",
+      "repos_url": "https://api.github.com/users/mike-burns/repos",
+      "events_url": "https://api.github.com/users/mike-burns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mike-burns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "adf5ed54f544f2f3be3a69417c2239490e28f80b",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/adf5ed54f544f2f3be3a69417c2239490e28f80b",
+        "html_url": "https://github.com/thoughtbot/guides/commit/adf5ed54f544f2f3be3a69417c2239490e28f80b"
+      }
+    ]
+  },
+  {
+    "sha": "adf5ed54f544f2f3be3a69417c2239490e28f80b",
+    "commit": {
+      "author": {
+        "name": "Geoff Harcourt",
+        "email": "geoff.harcourt@gmail.com",
+        "date": "2017-01-12T22:17:37Z"
+      },
+      "committer": {
+        "name": "Geoff Harcourt",
+        "email": "geoff.harcourt@gmail.com",
+        "date": "2017-01-12T22:17:37Z"
+      },
+      "message": "Fix Rubocop settings: PreferredHashMethods should be false",
+      "tree": {
+        "sha": "27e07b7a0b6206188adbff5d983a3f4b4ae902de",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/27e07b7a0b6206188adbff5d983a3f4b4ae902de"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/adf5ed54f544f2f3be3a69417c2239490e28f80b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/adf5ed54f544f2f3be3a69417c2239490e28f80b",
+    "html_url": "https://github.com/thoughtbot/guides/commit/adf5ed54f544f2f3be3a69417c2239490e28f80b",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/adf5ed54f544f2f3be3a69417c2239490e28f80b/comments",
+    "author": {
+      "login": "geoffharcourt",
+      "id": 319471,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/319471?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/geoffharcourt",
+      "html_url": "https://github.com/geoffharcourt",
+      "followers_url": "https://api.github.com/users/geoffharcourt/followers",
+      "following_url": "https://api.github.com/users/geoffharcourt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/geoffharcourt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/geoffharcourt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/geoffharcourt/subscriptions",
+      "organizations_url": "https://api.github.com/users/geoffharcourt/orgs",
+      "repos_url": "https://api.github.com/users/geoffharcourt/repos",
+      "events_url": "https://api.github.com/users/geoffharcourt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/geoffharcourt/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "geoffharcourt",
+      "id": 319471,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/319471?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/geoffharcourt",
+      "html_url": "https://github.com/geoffharcourt",
+      "followers_url": "https://api.github.com/users/geoffharcourt/followers",
+      "following_url": "https://api.github.com/users/geoffharcourt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/geoffharcourt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/geoffharcourt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/geoffharcourt/subscriptions",
+      "organizations_url": "https://api.github.com/users/geoffharcourt/orgs",
+      "repos_url": "https://api.github.com/users/geoffharcourt/repos",
+      "events_url": "https://api.github.com/users/geoffharcourt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/geoffharcourt/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "224f7378fbd37713ca3efaec8bd23a8e42b0bcc9",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/224f7378fbd37713ca3efaec8bd23a8e42b0bcc9",
+        "html_url": "https://github.com/thoughtbot/guides/commit/224f7378fbd37713ca3efaec8bd23a8e42b0bcc9"
+      }
+    ]
+  },
+  {
+    "sha": "224f7378fbd37713ca3efaec8bd23a8e42b0bcc9",
+    "commit": {
+      "author": {
+        "name": "Jack Schuss",
+        "email": "jackschuss@gmail.com",
+        "date": "2016-10-30T01:34:40Z"
+      },
+      "committer": {
+        "name": "Geoff Harcourt",
+        "email": "geoff.harcourt@gmail.com",
+        "date": "2017-01-12T22:14:07Z"
+      },
+      "message": "Change DeprecatedHashMethods to PreferredHashMethods\n\nThis change was officially made in June, and raises a warning when\nrunning rubocop.\n\n\"Warning: unrecognized cop Style/DeprecatedHashMethods\"\n\nhttps://github.com/bbatsov/rubocop/issues/3224",
+      "tree": {
+        "sha": "39c466edd6323c77780054a6bd97aec56dc692cc",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/39c466edd6323c77780054a6bd97aec56dc692cc"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/224f7378fbd37713ca3efaec8bd23a8e42b0bcc9",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/224f7378fbd37713ca3efaec8bd23a8e42b0bcc9",
+    "html_url": "https://github.com/thoughtbot/guides/commit/224f7378fbd37713ca3efaec8bd23a8e42b0bcc9",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/224f7378fbd37713ca3efaec8bd23a8e42b0bcc9/comments",
+    "author": {
+      "login": "yakschuss",
+      "id": 14119092,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14119092?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yakschuss",
+      "html_url": "https://github.com/yakschuss",
+      "followers_url": "https://api.github.com/users/yakschuss/followers",
+      "following_url": "https://api.github.com/users/yakschuss/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yakschuss/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yakschuss/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yakschuss/subscriptions",
+      "organizations_url": "https://api.github.com/users/yakschuss/orgs",
+      "repos_url": "https://api.github.com/users/yakschuss/repos",
+      "events_url": "https://api.github.com/users/yakschuss/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yakschuss/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "geoffharcourt",
+      "id": 319471,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/319471?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/geoffharcourt",
+      "html_url": "https://github.com/geoffharcourt",
+      "followers_url": "https://api.github.com/users/geoffharcourt/followers",
+      "following_url": "https://api.github.com/users/geoffharcourt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/geoffharcourt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/geoffharcourt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/geoffharcourt/subscriptions",
+      "organizations_url": "https://api.github.com/users/geoffharcourt/orgs",
+      "repos_url": "https://api.github.com/users/geoffharcourt/repos",
+      "events_url": "https://api.github.com/users/geoffharcourt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/geoffharcourt/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c06cb39cfc32b68762734178f642901821b31a2b",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/c06cb39cfc32b68762734178f642901821b31a2b",
+        "html_url": "https://github.com/thoughtbot/guides/commit/c06cb39cfc32b68762734178f642901821b31a2b"
+      }
+    ]
+  },
+  {
+    "sha": "c06cb39cfc32b68762734178f642901821b31a2b",
+    "commit": {
+      "author": {
+        "name": "Ezekiel Gabrielse",
+        "email": "ezekg@yahoo.com",
+        "date": "2016-03-22T14:12:13Z"
+      },
+      "committer": {
+        "name": "Geoff Harcourt",
+        "email": "geoffharcourt@users.noreply.github.com",
+        "date": "2017-01-12T22:07:46Z"
+      },
+      "message": "Use camel case over snake case for readme example",
+      "tree": {
+        "sha": "578479218ac565ee35920431885fc1cbc64e547b",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/578479218ac565ee35920431885fc1cbc64e547b"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/c06cb39cfc32b68762734178f642901821b31a2b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/c06cb39cfc32b68762734178f642901821b31a2b",
+    "html_url": "https://github.com/thoughtbot/guides/commit/c06cb39cfc32b68762734178f642901821b31a2b",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/c06cb39cfc32b68762734178f642901821b31a2b/comments",
+    "author": {
+      "login": "ezekg",
+      "id": 6979737,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6979737?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ezekg",
+      "html_url": "https://github.com/ezekg",
+      "followers_url": "https://api.github.com/users/ezekg/followers",
+      "following_url": "https://api.github.com/users/ezekg/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ezekg/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ezekg/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ezekg/subscriptions",
+      "organizations_url": "https://api.github.com/users/ezekg/orgs",
+      "repos_url": "https://api.github.com/users/ezekg/repos",
+      "events_url": "https://api.github.com/users/ezekg/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ezekg/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "geoffharcourt",
+      "id": 319471,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/319471?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/geoffharcourt",
+      "html_url": "https://github.com/geoffharcourt",
+      "followers_url": "https://api.github.com/users/geoffharcourt/followers",
+      "following_url": "https://api.github.com/users/geoffharcourt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/geoffharcourt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/geoffharcourt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/geoffharcourt/subscriptions",
+      "organizations_url": "https://api.github.com/users/geoffharcourt/orgs",
+      "repos_url": "https://api.github.com/users/geoffharcourt/repos",
+      "events_url": "https://api.github.com/users/geoffharcourt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/geoffharcourt/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0b959f6ac0285949d2c9db8490f4c462193e80e2",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/0b959f6ac0285949d2c9db8490f4c462193e80e2",
+        "html_url": "https://github.com/thoughtbot/guides/commit/0b959f6ac0285949d2c9db8490f4c462193e80e2"
+      }
+    ]
+  },
+  {
+    "sha": "0b959f6ac0285949d2c9db8490f4c462193e80e2",
+    "commit": {
+      "author": {
+        "name": "Rob Whittaker",
+        "email": "cyclistsdismount@gmail.com",
+        "date": "2017-01-04T14:09:36Z"
+      },
+      "committer": {
+        "name": "Rob Whittaker",
+        "email": "cyclistsdismount@gmail.com",
+        "date": "2017-01-04T14:10:41Z"
+      },
+      "message": "Use existing ESLint configuration",
+      "tree": {
+        "sha": "f0d6597458548f7428deaf3be1e329564904b9bf",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/f0d6597458548f7428deaf3be1e329564904b9bf"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/0b959f6ac0285949d2c9db8490f4c462193e80e2",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/0b959f6ac0285949d2c9db8490f4c462193e80e2",
+    "html_url": "https://github.com/thoughtbot/guides/commit/0b959f6ac0285949d2c9db8490f4c462193e80e2",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/0b959f6ac0285949d2c9db8490f4c462193e80e2/comments",
+    "author": {
+      "login": "purinkle",
+      "id": 185321,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/185321?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/purinkle",
+      "html_url": "https://github.com/purinkle",
+      "followers_url": "https://api.github.com/users/purinkle/followers",
+      "following_url": "https://api.github.com/users/purinkle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/purinkle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/purinkle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/purinkle/subscriptions",
+      "organizations_url": "https://api.github.com/users/purinkle/orgs",
+      "repos_url": "https://api.github.com/users/purinkle/repos",
+      "events_url": "https://api.github.com/users/purinkle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/purinkle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "purinkle",
+      "id": 185321,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/185321?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/purinkle",
+      "html_url": "https://github.com/purinkle",
+      "followers_url": "https://api.github.com/users/purinkle/followers",
+      "following_url": "https://api.github.com/users/purinkle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/purinkle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/purinkle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/purinkle/subscriptions",
+      "organizations_url": "https://api.github.com/users/purinkle/orgs",
+      "repos_url": "https://api.github.com/users/purinkle/repos",
+      "events_url": "https://api.github.com/users/purinkle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/purinkle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3e53ac0344b982753a5692cf57f0f79d2ca5074c",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/3e53ac0344b982753a5692cf57f0f79d2ca5074c",
+        "html_url": "https://github.com/thoughtbot/guides/commit/3e53ac0344b982753a5692cf57f0f79d2ca5074c"
+      }
+    ]
+  },
+  {
+    "sha": "3e53ac0344b982753a5692cf57f0f79d2ca5074c",
+    "commit": {
+      "author": {
+        "name": "Rob Whittaker",
+        "email": "cyclistsdismount@gmail.com",
+        "date": "2017-01-04T12:07:50Z"
+      },
+      "committer": {
+        "name": "Rob Whittaker",
+        "email": "cyclistsdismount@gmail.com",
+        "date": "2017-01-04T14:10:21Z"
+      },
+      "message": "Add ESLint Hound configuration\n\nBefore, Hound had its own default ESLint configuration. We are moving\nthese configurations into specific organisations. Added a\nthoughtbot-specific Hound configuration for ES6 files.\n\nhttps://trello.com/c/HY2hoTdq",
+      "tree": {
+        "sha": "b42bddf891d1e9b1735857d3b654679f1d6ed00a",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/b42bddf891d1e9b1735857d3b654679f1d6ed00a"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/3e53ac0344b982753a5692cf57f0f79d2ca5074c",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/3e53ac0344b982753a5692cf57f0f79d2ca5074c",
+    "html_url": "https://github.com/thoughtbot/guides/commit/3e53ac0344b982753a5692cf57f0f79d2ca5074c",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/3e53ac0344b982753a5692cf57f0f79d2ca5074c/comments",
+    "author": {
+      "login": "purinkle",
+      "id": 185321,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/185321?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/purinkle",
+      "html_url": "https://github.com/purinkle",
+      "followers_url": "https://api.github.com/users/purinkle/followers",
+      "following_url": "https://api.github.com/users/purinkle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/purinkle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/purinkle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/purinkle/subscriptions",
+      "organizations_url": "https://api.github.com/users/purinkle/orgs",
+      "repos_url": "https://api.github.com/users/purinkle/repos",
+      "events_url": "https://api.github.com/users/purinkle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/purinkle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "purinkle",
+      "id": 185321,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/185321?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/purinkle",
+      "html_url": "https://github.com/purinkle",
+      "followers_url": "https://api.github.com/users/purinkle/followers",
+      "following_url": "https://api.github.com/users/purinkle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/purinkle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/purinkle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/purinkle/subscriptions",
+      "organizations_url": "https://api.github.com/users/purinkle/orgs",
+      "repos_url": "https://api.github.com/users/purinkle/repos",
+      "events_url": "https://api.github.com/users/purinkle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/purinkle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "46d39089e8f5e07cc9175a79a264e0707e90ae16",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/46d39089e8f5e07cc9175a79a264e0707e90ae16",
+        "html_url": "https://github.com/thoughtbot/guides/commit/46d39089e8f5e07cc9175a79a264e0707e90ae16"
+      }
+    ]
+  },
+  {
+    "sha": "46d39089e8f5e07cc9175a79a264e0707e90ae16",
+    "commit": {
+      "author": {
+        "name": "Rob Whittaker",
+        "email": "cyclistsdismount@gmail.com",
+        "date": "2017-01-04T11:23:36Z"
+      },
+      "committer": {
+        "name": "Rob Whittaker",
+        "email": "cyclistsdismount@gmail.com",
+        "date": "2017-01-04T11:23:36Z"
+      },
+      "message": "Add Haml Hound configuration\n\nBefore, Hound had its own default Haml configuration. We are moving\nthese configurations into specific organisations. Added a\nthoughtbot-specific Hound configuration for Haml files.\n\nhttps://trello.com/c/HY2hoTdq",
+      "tree": {
+        "sha": "828e736461720452a763dfd3c9e9e6b61ad1e43a",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/828e736461720452a763dfd3c9e9e6b61ad1e43a"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/46d39089e8f5e07cc9175a79a264e0707e90ae16",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/46d39089e8f5e07cc9175a79a264e0707e90ae16",
+    "html_url": "https://github.com/thoughtbot/guides/commit/46d39089e8f5e07cc9175a79a264e0707e90ae16",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/46d39089e8f5e07cc9175a79a264e0707e90ae16/comments",
+    "author": {
+      "login": "purinkle",
+      "id": 185321,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/185321?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/purinkle",
+      "html_url": "https://github.com/purinkle",
+      "followers_url": "https://api.github.com/users/purinkle/followers",
+      "following_url": "https://api.github.com/users/purinkle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/purinkle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/purinkle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/purinkle/subscriptions",
+      "organizations_url": "https://api.github.com/users/purinkle/orgs",
+      "repos_url": "https://api.github.com/users/purinkle/repos",
+      "events_url": "https://api.github.com/users/purinkle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/purinkle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "purinkle",
+      "id": 185321,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/185321?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/purinkle",
+      "html_url": "https://github.com/purinkle",
+      "followers_url": "https://api.github.com/users/purinkle/followers",
+      "following_url": "https://api.github.com/users/purinkle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/purinkle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/purinkle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/purinkle/subscriptions",
+      "organizations_url": "https://api.github.com/users/purinkle/orgs",
+      "repos_url": "https://api.github.com/users/purinkle/repos",
+      "events_url": "https://api.github.com/users/purinkle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/purinkle/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "41b84c84f3e90f3b33d9d681403ba54fd735d47e",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/41b84c84f3e90f3b33d9d681403ba54fd735d47e",
+        "html_url": "https://github.com/thoughtbot/guides/commit/41b84c84f3e90f3b33d9d681403ba54fd735d47e"
+      }
+    ]
+  },
+  {
+    "sha": "41b84c84f3e90f3b33d9d681403ba54fd735d47e",
+    "commit": {
+      "author": {
+        "name": "Gordon Fontenot",
+        "email": "gmoney@gitpushgitpaid.com",
+        "date": "2016-12-21T15:56:35Z"
+      },
+      "committer": {
+        "name": "Gordon Fontenot",
+        "email": "gmoney@gitpushgitpaid.com",
+        "date": "2016-12-21T15:58:01Z"
+      },
+      "message": "Remove weird comment about attractiveness\n\nThis is out of place and borderline inappropriate. There's really no\nneed to reference physical appearance here, so how about we just don't.",
+      "tree": {
+        "sha": "567e9bb90bcde67c9201fe708743d6284292c472",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/567e9bb90bcde67c9201fe708743d6284292c472"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/41b84c84f3e90f3b33d9d681403ba54fd735d47e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/41b84c84f3e90f3b33d9d681403ba54fd735d47e",
+    "html_url": "https://github.com/thoughtbot/guides/commit/41b84c84f3e90f3b33d9d681403ba54fd735d47e",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/41b84c84f3e90f3b33d9d681403ba54fd735d47e/comments",
+    "author": {
+      "login": "gfontenot",
+      "id": 124499,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/124499?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gfontenot",
+      "html_url": "https://github.com/gfontenot",
+      "followers_url": "https://api.github.com/users/gfontenot/followers",
+      "following_url": "https://api.github.com/users/gfontenot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gfontenot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gfontenot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gfontenot/subscriptions",
+      "organizations_url": "https://api.github.com/users/gfontenot/orgs",
+      "repos_url": "https://api.github.com/users/gfontenot/repos",
+      "events_url": "https://api.github.com/users/gfontenot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gfontenot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "gfontenot",
+      "id": 124499,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/124499?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gfontenot",
+      "html_url": "https://github.com/gfontenot",
+      "followers_url": "https://api.github.com/users/gfontenot/followers",
+      "following_url": "https://api.github.com/users/gfontenot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gfontenot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gfontenot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gfontenot/subscriptions",
+      "organizations_url": "https://api.github.com/users/gfontenot/orgs",
+      "repos_url": "https://api.github.com/users/gfontenot/repos",
+      "events_url": "https://api.github.com/users/gfontenot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gfontenot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "837247a15901da3577afd3ad769bfb7832b3d286",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/837247a15901da3577afd3ad769bfb7832b3d286",
+        "html_url": "https://github.com/thoughtbot/guides/commit/837247a15901da3577afd3ad769bfb7832b3d286"
+      }
+    ]
+  },
+  {
+    "sha": "837247a15901da3577afd3ad769bfb7832b3d286",
+    "commit": {
+      "author": {
+        "name": "Derek Prior",
+        "email": "derekprior@gmail.com",
+        "date": "2016-12-16T18:37:30Z"
+      },
+      "committer": {
+        "name": "Derek Prior",
+        "email": "derekprior@gmail.com",
+        "date": "2016-12-16T18:37:30Z"
+      },
+      "message": "Convert jscsrc config to eslint\n\nThe JSCSRC project was absorbed into ESLint. I ran our configuration of\nJSCSRC through polyjuice and to convert it.",
+      "tree": {
+        "sha": "b2282b50ab955f3864fb87b8abe15993f9ff0999",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/b2282b50ab955f3864fb87b8abe15993f9ff0999"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/837247a15901da3577afd3ad769bfb7832b3d286",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/837247a15901da3577afd3ad769bfb7832b3d286",
+    "html_url": "https://github.com/thoughtbot/guides/commit/837247a15901da3577afd3ad769bfb7832b3d286",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/837247a15901da3577afd3ad769bfb7832b3d286/comments",
+    "author": {
+      "login": "derekprior",
+      "id": 152152,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/152152?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/derekprior",
+      "html_url": "https://github.com/derekprior",
+      "followers_url": "https://api.github.com/users/derekprior/followers",
+      "following_url": "https://api.github.com/users/derekprior/following{/other_user}",
+      "gists_url": "https://api.github.com/users/derekprior/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/derekprior/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/derekprior/subscriptions",
+      "organizations_url": "https://api.github.com/users/derekprior/orgs",
+      "repos_url": "https://api.github.com/users/derekprior/repos",
+      "events_url": "https://api.github.com/users/derekprior/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/derekprior/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "derekprior",
+      "id": 152152,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/152152?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/derekprior",
+      "html_url": "https://github.com/derekprior",
+      "followers_url": "https://api.github.com/users/derekprior/followers",
+      "following_url": "https://api.github.com/users/derekprior/following{/other_user}",
+      "gists_url": "https://api.github.com/users/derekprior/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/derekprior/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/derekprior/subscriptions",
+      "organizations_url": "https://api.github.com/users/derekprior/orgs",
+      "repos_url": "https://api.github.com/users/derekprior/repos",
+      "events_url": "https://api.github.com/users/derekprior/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/derekprior/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "371290d1a3f6c38647d319b799dcd8a1f8ee1f68",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/371290d1a3f6c38647d319b799dcd8a1f8ee1f68",
+        "html_url": "https://github.com/thoughtbot/guides/commit/371290d1a3f6c38647d319b799dcd8a1f8ee1f68"
+      }
+    ]
+  },
+  {
+    "sha": "371290d1a3f6c38647d319b799dcd8a1f8ee1f68",
+    "commit": {
+      "author": {
+        "name": "Brian Toomey",
+        "email": "toomey8@gmail.com",
+        "date": "2016-10-27T20:00:21Z"
+      },
+      "committer": {
+        "name": "Dan Croak",
+        "email": "dan@statusok.com",
+        "date": "2016-10-27T20:00:21Z"
+      },
+      "message": "Update thoughtbot.com link in README\n\nThe `/community` link now redirects to `/tools`.\nThe thoughtbot.com home page may be more relevant to guides readers.",
+      "tree": {
+        "sha": "59d9beeb72a989689f0b6772cdfa2a78d7e803b2",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/59d9beeb72a989689f0b6772cdfa2a78d7e803b2"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/371290d1a3f6c38647d319b799dcd8a1f8ee1f68",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/371290d1a3f6c38647d319b799dcd8a1f8ee1f68",
+    "html_url": "https://github.com/thoughtbot/guides/commit/371290d1a3f6c38647d319b799dcd8a1f8ee1f68",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/371290d1a3f6c38647d319b799dcd8a1f8ee1f68/comments",
+    "author": {
+      "login": "toomey8",
+      "id": 1425116,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1425116?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/toomey8",
+      "html_url": "https://github.com/toomey8",
+      "followers_url": "https://api.github.com/users/toomey8/followers",
+      "following_url": "https://api.github.com/users/toomey8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/toomey8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/toomey8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/toomey8/subscriptions",
+      "organizations_url": "https://api.github.com/users/toomey8/orgs",
+      "repos_url": "https://api.github.com/users/toomey8/repos",
+      "events_url": "https://api.github.com/users/toomey8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/toomey8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "croaky",
+      "id": 198,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/198?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/croaky",
+      "html_url": "https://github.com/croaky",
+      "followers_url": "https://api.github.com/users/croaky/followers",
+      "following_url": "https://api.github.com/users/croaky/following{/other_user}",
+      "gists_url": "https://api.github.com/users/croaky/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/croaky/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/croaky/subscriptions",
+      "organizations_url": "https://api.github.com/users/croaky/orgs",
+      "repos_url": "https://api.github.com/users/croaky/repos",
+      "events_url": "https://api.github.com/users/croaky/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/croaky/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3cbccbfabec42e6babbca109c467ccba194c7081",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/3cbccbfabec42e6babbca109c467ccba194c7081",
+        "html_url": "https://github.com/thoughtbot/guides/commit/3cbccbfabec42e6babbca109c467ccba194c7081"
+      }
+    ]
+  },
+  {
+    "sha": "3cbccbfabec42e6babbca109c467ccba194c7081",
+    "commit": {
+      "author": {
+        "name": "Jake Craige",
+        "email": "james.craige@gmail.com",
+        "date": "2016-07-06T20:13:18Z"
+      },
+      "committer": {
+        "name": "Jake Craige",
+        "email": "james.craige@gmail.com",
+        "date": "2016-09-30T17:51:48Z"
+      },
+      "message": "Swift: Prefer verb describing action for IBAction/target-action methods",
+      "tree": {
+        "sha": "9be5bbc11ce69b6c3688b5a05c69d26e596abad4",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/9be5bbc11ce69b6c3688b5a05c69d26e596abad4"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/3cbccbfabec42e6babbca109c467ccba194c7081",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/3cbccbfabec42e6babbca109c467ccba194c7081",
+    "html_url": "https://github.com/thoughtbot/guides/commit/3cbccbfabec42e6babbca109c467ccba194c7081",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/3cbccbfabec42e6babbca109c467ccba194c7081/comments",
+    "author": {
+      "login": "jakecraige",
+      "id": 3799709,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3799709?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jakecraige",
+      "html_url": "https://github.com/jakecraige",
+      "followers_url": "https://api.github.com/users/jakecraige/followers",
+      "following_url": "https://api.github.com/users/jakecraige/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jakecraige/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jakecraige/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jakecraige/subscriptions",
+      "organizations_url": "https://api.github.com/users/jakecraige/orgs",
+      "repos_url": "https://api.github.com/users/jakecraige/repos",
+      "events_url": "https://api.github.com/users/jakecraige/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jakecraige/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jakecraige",
+      "id": 3799709,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3799709?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jakecraige",
+      "html_url": "https://github.com/jakecraige",
+      "followers_url": "https://api.github.com/users/jakecraige/followers",
+      "following_url": "https://api.github.com/users/jakecraige/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jakecraige/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jakecraige/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jakecraige/subscriptions",
+      "organizations_url": "https://api.github.com/users/jakecraige/orgs",
+      "repos_url": "https://api.github.com/users/jakecraige/repos",
+      "events_url": "https://api.github.com/users/jakecraige/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jakecraige/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5df1e8fcc2166914b906f2284fb2719516679d3b",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/5df1e8fcc2166914b906f2284fb2719516679d3b",
+        "html_url": "https://github.com/thoughtbot/guides/commit/5df1e8fcc2166914b906f2284fb2719516679d3b"
+      }
+    ]
+  },
+  {
+    "sha": "5df1e8fcc2166914b906f2284fb2719516679d3b",
+    "commit": {
+      "author": {
+        "name": "Chris Thorn",
+        "email": "chris@thorn.co",
+        "date": "2016-09-08T01:06:08Z"
+      },
+      "committer": {
+        "name": "Chris Thorn",
+        "email": "chris@thorn.co",
+        "date": "2016-09-14T16:44:24Z"
+      },
+      "message": "[Rubocop] Disable FrozenStringLiteralComment\n\nRuboCop, somewhat recently, added the\n[Style/FrozenStringLiteralComment][1] cop, which enforces the presence\nof the `# frozen_string_literal: true` pragma at the top of every file,\nwhen running in Ruby 2.3 mode. Hound recently [configured][2] RuboCop to\nrun in Ruby 2.3 mode by default. This means Hound will now comment on\nany Ruby file touched in a PR that doesn't have the pragma, with:\n\n> Missing frozen string literal comment.\n\nThis is intended to prepare code bases for Ruby 3.0, where strings will\nbe frozen by default. In practice, I find Hound making these comments to\nbe quite annoying, and I have disabled it on my current project.\n\nIt seems we can disable the cop, or start putting the pragma at the top\nof all our files. The former seems easier so it's my pick.\n\n[1]: https://github.com/bbatsov/rubocop/pull/2542\n[2]: https://github.com/houndci/linters/pull/65",
+      "tree": {
+        "sha": "256c75ab542c7a6023b85c27191009631995fb20",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/256c75ab542c7a6023b85c27191009631995fb20"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/5df1e8fcc2166914b906f2284fb2719516679d3b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/5df1e8fcc2166914b906f2284fb2719516679d3b",
+    "html_url": "https://github.com/thoughtbot/guides/commit/5df1e8fcc2166914b906f2284fb2719516679d3b",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/5df1e8fcc2166914b906f2284fb2719516679d3b/comments",
+    "author": {
+      "login": "thorncp",
+      "id": 72176,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/72176?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/thorncp",
+      "html_url": "https://github.com/thorncp",
+      "followers_url": "https://api.github.com/users/thorncp/followers",
+      "following_url": "https://api.github.com/users/thorncp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/thorncp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/thorncp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/thorncp/subscriptions",
+      "organizations_url": "https://api.github.com/users/thorncp/orgs",
+      "repos_url": "https://api.github.com/users/thorncp/repos",
+      "events_url": "https://api.github.com/users/thorncp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/thorncp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "thorncp",
+      "id": 72176,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/72176?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/thorncp",
+      "html_url": "https://github.com/thorncp",
+      "followers_url": "https://api.github.com/users/thorncp/followers",
+      "following_url": "https://api.github.com/users/thorncp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/thorncp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/thorncp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/thorncp/subscriptions",
+      "organizations_url": "https://api.github.com/users/thorncp/orgs",
+      "repos_url": "https://api.github.com/users/thorncp/repos",
+      "events_url": "https://api.github.com/users/thorncp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/thorncp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5130a92900f6efaf47c8663c91ef62cf94e6614f",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/5130a92900f6efaf47c8663c91ef62cf94e6614f",
+        "html_url": "https://github.com/thoughtbot/guides/commit/5130a92900f6efaf47c8663c91ef62cf94e6614f"
+      }
+    ]
+  },
+  {
+    "sha": "5130a92900f6efaf47c8663c91ef62cf94e6614f",
+    "commit": {
+      "author": {
+        "name": "José Vicente Fernández Ferrer",
+        "email": "josevfernandez@users.noreply.github.com",
+        "date": "2016-09-12T20:58:20Z"
+      },
+      "committer": {
+        "name": "Ian Zabel",
+        "email": "ian@ezabel.com",
+        "date": "2016-09-12T20:58:20Z"
+      },
+      "message": "Fix links in the README.md file (#447)\n\n* Fix links in the README.md file",
+      "tree": {
+        "sha": "e7532fb23d5029f60a9e44022eb2e4f937120a5a",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/e7532fb23d5029f60a9e44022eb2e4f937120a5a"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/5130a92900f6efaf47c8663c91ef62cf94e6614f",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/5130a92900f6efaf47c8663c91ef62cf94e6614f",
+    "html_url": "https://github.com/thoughtbot/guides/commit/5130a92900f6efaf47c8663c91ef62cf94e6614f",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/5130a92900f6efaf47c8663c91ef62cf94e6614f/comments",
+    "author": {
+      "login": "joseVFernandez",
+      "id": 683349,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/683349?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/joseVFernandez",
+      "html_url": "https://github.com/joseVFernandez",
+      "followers_url": "https://api.github.com/users/joseVFernandez/followers",
+      "following_url": "https://api.github.com/users/joseVFernandez/following{/other_user}",
+      "gists_url": "https://api.github.com/users/joseVFernandez/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/joseVFernandez/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/joseVFernandez/subscriptions",
+      "organizations_url": "https://api.github.com/users/joseVFernandez/orgs",
+      "repos_url": "https://api.github.com/users/joseVFernandez/repos",
+      "events_url": "https://api.github.com/users/joseVFernandez/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/joseVFernandez/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "iwz",
+      "id": 141314,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/141314?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/iwz",
+      "html_url": "https://github.com/iwz",
+      "followers_url": "https://api.github.com/users/iwz/followers",
+      "following_url": "https://api.github.com/users/iwz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/iwz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/iwz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/iwz/subscriptions",
+      "organizations_url": "https://api.github.com/users/iwz/orgs",
+      "repos_url": "https://api.github.com/users/iwz/repos",
+      "events_url": "https://api.github.com/users/iwz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/iwz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "71b2f0555db5b86fbd60394c3828d80354ac5a58",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/71b2f0555db5b86fbd60394c3828d80354ac5a58",
+        "html_url": "https://github.com/thoughtbot/guides/commit/71b2f0555db5b86fbd60394c3828d80354ac5a58"
+      }
+    ]
+  },
+  {
+    "sha": "71b2f0555db5b86fbd60394c3828d80354ac5a58",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2016-08-30T13:40:07Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2016-08-30T20:04:33Z"
+      },
+      "message": "Update SCSS-Lint config to 0.50",
+      "tree": {
+        "sha": "937be29b4bfd1fb86cc294d70f2235360d7ddae9",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/937be29b4bfd1fb86cc294d70f2235360d7ddae9"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/71b2f0555db5b86fbd60394c3828d80354ac5a58",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/71b2f0555db5b86fbd60394c3828d80354ac5a58",
+    "html_url": "https://github.com/thoughtbot/guides/commit/71b2f0555db5b86fbd60394c3828d80354ac5a58",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/71b2f0555db5b86fbd60394c3828d80354ac5a58/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "502c856130d337d87dc35170c0dcb5dc64d1d552",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/502c856130d337d87dc35170c0dcb5dc64d1d552",
+        "html_url": "https://github.com/thoughtbot/guides/commit/502c856130d337d87dc35170c0dcb5dc64d1d552"
+      }
+    ]
+  },
+  {
+    "sha": "502c856130d337d87dc35170c0dcb5dc64d1d552",
+    "commit": {
+      "author": {
+        "name": "Josh Morrow",
+        "email": "jcmorrow@thoughtbot.com",
+        "date": "2016-07-22T23:17:25Z"
+      },
+      "committer": {
+        "name": "Josh Morrow",
+        "email": "jcmorrow@thoughtbot.com",
+        "date": "2016-08-23T15:35:09Z"
+      },
+      "message": "Add coffeescript config file + update hound config\n\nNow that this repo is the owner configuration repo for all thoughtbot\nrepositories in Hound it needs to explicitly define a set of\ncoffeescript styles.\n\nChanges:\n\n - Copy over `coffeelint.json` from Hound repo\n - Configure coffeescript in `.hound.yml` to be enabled and to point at\n   `coffeelint.json`",
+      "tree": {
+        "sha": "c27fbe070336b5f41187d31b84ff876781ab38af",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/c27fbe070336b5f41187d31b84ff876781ab38af"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/502c856130d337d87dc35170c0dcb5dc64d1d552",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/502c856130d337d87dc35170c0dcb5dc64d1d552",
+    "html_url": "https://github.com/thoughtbot/guides/commit/502c856130d337d87dc35170c0dcb5dc64d1d552",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/502c856130d337d87dc35170c0dcb5dc64d1d552/comments",
+    "author": {
+      "login": "jcmorrow",
+      "id": 5903784,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5903784?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcmorrow",
+      "html_url": "https://github.com/jcmorrow",
+      "followers_url": "https://api.github.com/users/jcmorrow/followers",
+      "following_url": "https://api.github.com/users/jcmorrow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jcmorrow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jcmorrow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jcmorrow/subscriptions",
+      "organizations_url": "https://api.github.com/users/jcmorrow/orgs",
+      "repos_url": "https://api.github.com/users/jcmorrow/repos",
+      "events_url": "https://api.github.com/users/jcmorrow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jcmorrow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jcmorrow",
+      "id": 5903784,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5903784?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcmorrow",
+      "html_url": "https://github.com/jcmorrow",
+      "followers_url": "https://api.github.com/users/jcmorrow/followers",
+      "following_url": "https://api.github.com/users/jcmorrow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jcmorrow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jcmorrow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jcmorrow/subscriptions",
+      "organizations_url": "https://api.github.com/users/jcmorrow/orgs",
+      "repos_url": "https://api.github.com/users/jcmorrow/repos",
+      "events_url": "https://api.github.com/users/jcmorrow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jcmorrow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a9569bff1d03d60ffdf96cba40f846362fa6eb0d",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/a9569bff1d03d60ffdf96cba40f846362fa6eb0d",
+        "html_url": "https://github.com/thoughtbot/guides/commit/a9569bff1d03d60ffdf96cba40f846362fa6eb0d"
+      }
+    ]
+  },
+  {
+    "sha": "a9569bff1d03d60ffdf96cba40f846362fa6eb0d",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2016-07-28T19:20:02Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2016-07-28T19:30:40Z"
+      },
+      "message": "Disable UrlFormat linter\n\nThis linter is a bit too generalized to have enabled by default.\n\nFor example, on the thoughtbot blog we use a CDN for images, so having\nan external domain with protocol makes sense, but this linter will throw\na warning.\n\nReference: https://github.com/brigade/scss-lint/blob/master/lib/scss_lint/linter/README.md#urlformat",
+      "tree": {
+        "sha": "e72738c54cf1c68d0f90460d5d25c579dcecee81",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/e72738c54cf1c68d0f90460d5d25c579dcecee81"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/a9569bff1d03d60ffdf96cba40f846362fa6eb0d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/a9569bff1d03d60ffdf96cba40f846362fa6eb0d",
+    "html_url": "https://github.com/thoughtbot/guides/commit/a9569bff1d03d60ffdf96cba40f846362fa6eb0d",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/a9569bff1d03d60ffdf96cba40f846362fa6eb0d/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8e62d4dbd5123c0eb11dbbee2f7e09d3742396d9",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/8e62d4dbd5123c0eb11dbbee2f7e09d3742396d9",
+        "html_url": "https://github.com/thoughtbot/guides/commit/8e62d4dbd5123c0eb11dbbee2f7e09d3742396d9"
+      }
+    ]
+  },
+  {
+    "sha": "8e62d4dbd5123c0eb11dbbee2f7e09d3742396d9",
+    "commit": {
+      "author": {
+        "name": "Kyle Fiedler",
+        "email": "kyle@kylefiedler.com",
+        "date": "2016-04-09T19:37:13Z"
+      },
+      "committer": {
+        "name": "Kyle Fiedler",
+        "email": "kyle@kylefiedler.com",
+        "date": "2016-07-27T14:26:13Z"
+      },
+      "message": "Be consistent about class naming and structure in a project",
+      "tree": {
+        "sha": "08a229eaa8b9336f2ab714cf76b5716697dcc4bc",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/08a229eaa8b9336f2ab714cf76b5716697dcc4bc"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/8e62d4dbd5123c0eb11dbbee2f7e09d3742396d9",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/8e62d4dbd5123c0eb11dbbee2f7e09d3742396d9",
+    "html_url": "https://github.com/thoughtbot/guides/commit/8e62d4dbd5123c0eb11dbbee2f7e09d3742396d9",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/8e62d4dbd5123c0eb11dbbee2f7e09d3742396d9/comments",
+    "author": {
+      "login": "kylefiedler",
+      "id": 223180,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/223180?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kylefiedler",
+      "html_url": "https://github.com/kylefiedler",
+      "followers_url": "https://api.github.com/users/kylefiedler/followers",
+      "following_url": "https://api.github.com/users/kylefiedler/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kylefiedler/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kylefiedler/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kylefiedler/subscriptions",
+      "organizations_url": "https://api.github.com/users/kylefiedler/orgs",
+      "repos_url": "https://api.github.com/users/kylefiedler/repos",
+      "events_url": "https://api.github.com/users/kylefiedler/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kylefiedler/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "kylefiedler",
+      "id": 223180,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/223180?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kylefiedler",
+      "html_url": "https://github.com/kylefiedler",
+      "followers_url": "https://api.github.com/users/kylefiedler/followers",
+      "following_url": "https://api.github.com/users/kylefiedler/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kylefiedler/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kylefiedler/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kylefiedler/subscriptions",
+      "organizations_url": "https://api.github.com/users/kylefiedler/orgs",
+      "repos_url": "https://api.github.com/users/kylefiedler/repos",
+      "events_url": "https://api.github.com/users/kylefiedler/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kylefiedler/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c7651bb3403e0f3637c804c5f154f17167083b40",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/c7651bb3403e0f3637c804c5f154f17167083b40",
+        "html_url": "https://github.com/thoughtbot/guides/commit/c7651bb3403e0f3637c804c5f154f17167083b40"
+      }
+    ]
+  },
+  {
+    "sha": "c7651bb3403e0f3637c804c5f154f17167083b40",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2016-07-19T18:46:17Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2016-07-22T21:10:10Z"
+      },
+      "message": "Trailing comma in Sass maps\n\nThis makes for cleaner diffs when adding to or\nremoving from the map.\n\nThis also aligns with our JavaScript guideline.",
+      "tree": {
+        "sha": "7df0b49054e1ceef83363133a56ff080e0941253",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/7df0b49054e1ceef83363133a56ff080e0941253"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/c7651bb3403e0f3637c804c5f154f17167083b40",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/c7651bb3403e0f3637c804c5f154f17167083b40",
+    "html_url": "https://github.com/thoughtbot/guides/commit/c7651bb3403e0f3637c804c5f154f17167083b40",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/c7651bb3403e0f3637c804c5f154f17167083b40/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "48a0b79eee54529f9ae8ebb93f2e524e0d7fa000",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/48a0b79eee54529f9ae8ebb93f2e524e0d7fa000",
+        "html_url": "https://github.com/thoughtbot/guides/commit/48a0b79eee54529f9ae8ebb93f2e524e0d7fa000"
+      }
+    ]
+  },
+  {
+    "sha": "48a0b79eee54529f9ae8ebb93f2e524e0d7fa000",
+    "commit": {
+      "author": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2016-07-19T18:44:25Z"
+      },
+      "committer": {
+        "name": "Tyson Gach",
+        "email": "tyson@tysongach.com",
+        "date": "2016-07-19T18:44:25Z"
+      },
+      "message": "Update SCSS-Lint config to 0.49",
+      "tree": {
+        "sha": "a8ecfd6b4499e181882cc05fcac917d925fda7a0",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/a8ecfd6b4499e181882cc05fcac917d925fda7a0"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/48a0b79eee54529f9ae8ebb93f2e524e0d7fa000",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/48a0b79eee54529f9ae8ebb93f2e524e0d7fa000",
+    "html_url": "https://github.com/thoughtbot/guides/commit/48a0b79eee54529f9ae8ebb93f2e524e0d7fa000",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/48a0b79eee54529f9ae8ebb93f2e524e0d7fa000/comments",
+    "author": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tysongach",
+      "id": 903327,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/903327?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tysongach",
+      "html_url": "https://github.com/tysongach",
+      "followers_url": "https://api.github.com/users/tysongach/followers",
+      "following_url": "https://api.github.com/users/tysongach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tysongach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tysongach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tysongach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tysongach/orgs",
+      "repos_url": "https://api.github.com/users/tysongach/repos",
+      "events_url": "https://api.github.com/users/tysongach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tysongach/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "83cfbe7327d574efc1a8943c9e1f60b9af751e1b",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/83cfbe7327d574efc1a8943c9e1f60b9af751e1b",
+        "html_url": "https://github.com/thoughtbot/guides/commit/83cfbe7327d574efc1a8943c9e1f60b9af751e1b"
+      }
+    ]
+  },
+  {
+    "sha": "83cfbe7327d574efc1a8943c9e1f60b9af751e1b",
+    "commit": {
+      "author": {
+        "name": "Josh Morrow",
+        "email": "jcmorrow@thoughtbot.com",
+        "date": "2016-06-24T18:38:54Z"
+      },
+      "committer": {
+        "name": "Josh Morrow",
+        "email": "jcmorrow@thoughtbot.com",
+        "date": "2016-06-24T22:19:52Z"
+      },
+      "message": "Update rubocop config to match hound settings\n\nFrom now on hound will use this repository's configuration for all\nthoughbot repos. There were a few settings that differed between the\ntwo, so I'm adding the missing configs to make this look just like\nhound's default thoughtbot configuration.",
+      "tree": {
+        "sha": "9da93dda93801e3c4ae29aaf5d5e22c26f3e119f",
+        "url": "https://api.github.com/repos/thoughtbot/guides/git/trees/9da93dda93801e3c4ae29aaf5d5e22c26f3e119f"
+      },
+      "url": "https://api.github.com/repos/thoughtbot/guides/git/commits/83cfbe7327d574efc1a8943c9e1f60b9af751e1b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/thoughtbot/guides/commits/83cfbe7327d574efc1a8943c9e1f60b9af751e1b",
+    "html_url": "https://github.com/thoughtbot/guides/commit/83cfbe7327d574efc1a8943c9e1f60b9af751e1b",
+    "comments_url": "https://api.github.com/repos/thoughtbot/guides/commits/83cfbe7327d574efc1a8943c9e1f60b9af751e1b/comments",
+    "author": {
+      "login": "jcmorrow",
+      "id": 5903784,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5903784?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcmorrow",
+      "html_url": "https://github.com/jcmorrow",
+      "followers_url": "https://api.github.com/users/jcmorrow/followers",
+      "following_url": "https://api.github.com/users/jcmorrow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jcmorrow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jcmorrow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jcmorrow/subscriptions",
+      "organizations_url": "https://api.github.com/users/jcmorrow/orgs",
+      "repos_url": "https://api.github.com/users/jcmorrow/repos",
+      "events_url": "https://api.github.com/users/jcmorrow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jcmorrow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jcmorrow",
+      "id": 5903784,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5903784?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcmorrow",
+      "html_url": "https://github.com/jcmorrow",
+      "followers_url": "https://api.github.com/users/jcmorrow/followers",
+      "following_url": "https://api.github.com/users/jcmorrow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jcmorrow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jcmorrow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jcmorrow/subscriptions",
+      "organizations_url": "https://api.github.com/users/jcmorrow/orgs",
+      "repos_url": "https://api.github.com/users/jcmorrow/repos",
+      "events_url": "https://api.github.com/users/jcmorrow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jcmorrow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f3a3cbff108633f0d7e1baaa4bded160827ab7a7",
+        "url": "https://api.github.com/repos/thoughtbot/guides/commits/f3a3cbff108633f0d7e1baaa4bded160827ab7a7",
+        "html_url": "https://github.com/thoughtbot/guides/commit/f3a3cbff108633f0d7e1baaa4bded160827ab7a7"
+      }
+    ]
+  }
+]
